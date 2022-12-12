@@ -36,3 +36,44 @@
 2a12:3fc2:e62f::/48,KR,,
 2a12:3fc2:e630::/46,SG,,
 2a12:3fc2:e634::/46,IN,,
+2a12:3fc2:e634::/48,IN,IN-MH,Mumbai
+2a12:3fc2:e635::/48,IN,,
+2a12:3fc2:e636::/48,IN,,
+2a12:3fc2:e637::/48,IN,,
+2a12:3fc2:e6e0::/44,CN,,
+2a12:3fc2:e6e0::/47,CN,CN-SD,
+2a12:3fc2:e6e0::/48,CN,CN-SD,Jinan
+2a12:3fc2:e6e1::/48,CN,CN-SD,Dezhou
+2a12:3fc2:e6e2::/48,CN,CN-SC,Chengdu
+2a12:3fc2:e6e3::/48,CN,CN-GD,Guangzhou
+2a12:3fc2:e6e4::/47,CN,CN-BJ,Beijing
+2a12:3fc2:e6e4::/48,CN,CN-BJ,Beijing
+2a12:3fc2:e6e5::/48,CN,CN-BJ,Beijing
+2a12:3fc2:e6e6::/48,CN,,
+2a12:3fc2:e6e7::/48,CN,,
+2a12:3fc2:e6e8::/48,CN,,
+2a12:3fc2:e6e9::/48,CN,,
+2a12:3fc2:e6ea::/48,CN,,
+2a12:3fc2:e6eb::/48,CN,,
+2a12:3fc2:e6ec::/48,CN,,
+2a12:3fc2:e6ed::/48,CN,,
+2a12:3fc2:e6ee::/48,CN,,
+2a12:3fc2:e6ef::/48,CN,,
+2a12:3fc2:e660::/45,US,US-WA,
+2a12:3fc2:e660::/48,US,US-WA,Seattle
+2a12:3fc2:e661::/48,US,US-WA,Seattle
+2a12:3fc2:e662::/48,US,US-WA,Seattle
+2a12:3fc2:e663::/48,US,US-WA,
+2a12:3fc2:e664::/48,US,,
+2a12:3fc2:e665::/48,US,,
+2a12:3fc2:e666::/48,US,,
+2a12:3fc2:e667::/48,US,,
+2a12:3fc2:e668::/45,US,US-CA,
+2a12:3fc2:e668::/48,US,US-CA,San Francisco
+2a12:3fc2:e669::/48,US,US-CA,
+2a12:3fc2:e66a::/48,US,US-CA,Fremont
+2a12:3fc2:e66b::/48,US,US-CA,
+2a12:3fc2:e66c::/48,US,US-CA,San Jose
+2a12:3fc2:e66d::/48,US,US-CA,San Jose
+2a12:3fc2:e66e::/48,US,US-CA,Los Angeles
+2a12:3fc2:e66f::/48,US,US-CA,Los Angeles
