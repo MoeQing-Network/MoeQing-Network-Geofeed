@@ -1,4 +1,4 @@
-2a12:3fc2:e610::/44,CN,,
+2a12:3fc2:e600::/40,CN,,
 2a12:3fc2:e610::/46,CN,CN-HN,
 2a12:3fc2:e610::/48,CN,CN-HN,Changsha
 2a12:3fc2:e611::/48,CN,CN-HN,Changsha
@@ -18,28 +18,6 @@
 2a12:3fc2:e61d::/48,CN,CN-ZJ,Hangzhou
 2a12:3fc2:e61e::/48,CN,CN-ZJ,Ningbo
 2a12:3fc2:e61f::/48,CN,,
-2a12:3fc2:e620::/46,HK,,
-2a12:3fc2:e624::/46,TW,,
-2a12:3fc2:e624::/48,TW,TW-TPE,Taipei
-2a12:3fc2:e625::/48,TW,TW-TAO,Taoyuan
-2a12:3fc2:e626::/48,TW,,
-2a12:3fc2:e627::/48,TW,,
-2a12:3fc2:e628::/46,JP,,
-2a12:3fc2:e628::/48,JP,JP-13,Tokyo
-2a12:3fc2:e629::/48,JP,JP-13,Tokyo
-2a12:3fc2:e62a::/48,JP,JP-27,Osaka
-2a12:3fc2:e62b::/48,JP,,
-2a12:3fc2:e62c::/46,KR,,
-2a12:3fc2:e62c::/48,KR,KR-11,Seoul
-2a12:3fc2:e62d::/48,KR,KR-11,Seoul
-2a12:3fc2:e62e::/48,KR,KR-42,Chunchuan
-2a12:3fc2:e62f::/48,KR,,
-2a12:3fc2:e630::/46,SG,,
-2a12:3fc2:e634::/46,IN,,
-2a12:3fc2:e634::/48,IN,IN-MH,Mumbai
-2a12:3fc2:e635::/48,IN,,
-2a12:3fc2:e636::/48,IN,,
-2a12:3fc2:e637::/48,IN,,
 2a12:3fc2:e6e0::/44,CN,,
 2a12:3fc2:e6e0::/47,CN,CN-SD,
 2a12:3fc2:e6e0::/48,CN,CN-SD,Jinan
@@ -59,21 +37,3 @@
 2a12:3fc2:e6ed::/48,CN,,
 2a12:3fc2:e6ee::/48,CN,,
 2a12:3fc2:e6ef::/48,CN,,
-2a12:3fc2:e660::/45,US,US-WA,
-2a12:3fc2:e660::/48,US,US-WA,Seattle
-2a12:3fc2:e661::/48,US,US-WA,Seattle
-2a12:3fc2:e662::/48,US,US-WA,Seattle
-2a12:3fc2:e663::/48,US,US-WA,
-2a12:3fc2:e664::/48,US,,
-2a12:3fc2:e665::/48,US,,
-2a12:3fc2:e666::/48,US,,
-2a12:3fc2:e667::/48,US,,
-2a12:3fc2:e668::/45,US,US-CA,
-2a12:3fc2:e668::/48,US,US-CA,San Francisco
-2a12:3fc2:e669::/48,US,US-CA,
-2a12:3fc2:e66a::/48,US,US-CA,Fremont
-2a12:3fc2:e66b::/48,US,US-CA,
-2a12:3fc2:e66c::/48,US,US-CA,San Jose
-2a12:3fc2:e66d::/48,US,US-CA,San Jose
-2a12:3fc2:e66e::/48,US,US-CA,Los Angeles
-2a12:3fc2:e66f::/48,US,US-CA,Los Angeles
