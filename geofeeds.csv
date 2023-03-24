@@ -22,7 +22,10 @@
 2a0a:6040:532c::/46,US,US-CA,San Jose
 2a0a:6040:5330::/46,CA,,
 2a0a:6040:5330::/48,CA,CA-BC,Vancouver
+2a0a:6040:5380::/42,EU,,
 2a0a:6040:5380::/46,DE,,
+2a0a:6040:5380::/47,DE,DE-HE,Frankfurt am Main
+2a0a:6040:5382::/48,DE,DE-SN,Falkenstein
 2a0a:6040:5384::/46,NL,,
 2a0a:6040:5388::/46,FR,,
 2a0a:6040:538c::/46,UK,,
