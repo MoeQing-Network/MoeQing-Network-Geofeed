@@ -92,55 +92,53 @@
 2a0a:280:13af::/48,UA,UA-30,Kyiv,
 2a0a:280:13b0::/48,GB,GB-ENG,London,
 2a0a:280:13b1::/48,VA,VA-13,Vatican City,
-Prefix,Country Code,Region Code,City
-2a0a:280:1340::/48,AF,AF-KBL,Kabul
-2a0a:280:1341::/48,AM,AM-ER,Yerevan
-2a0a:280:1342::/48,AZ,AZ-BA,Baku
-2a0a:280:1343::/48,BH,BH-13,Manama
-2a0a:280:1344::/48,BD,BD-13,Dhaka
-2a0a:280:1345::/48,BT,BT-15,Thimphu
-2a0a:280:1346::/48,BN,BN-BE,Bandar Seri Begawan
-2a0a:280:1347::/48,KH,KH-12,Phnom Penh
-2a0a:280:1348::/48,CN,CN-BJ,Beijing
-2a0a:280:1349::/48,CY,CY-02,Nicosia
-2a0a:280:134a::/48,GE,GE-TB,Tbilisi
-2a0a:280:134b::/48,IN,IN-DL,New Delhi
-2a0a:280:134c::/48,ID,ID-JK,Jakarta
-2a0a:280:134d::/48,IR,IR-07,Tehran
-2a0a:280:134e::/48,IQ,IQ-BG,Baghdad
-2a0a:280:134f::/48,IL,IL-JM,Jerusalem
-2a0a:280:1350::/48,JP,JP-13,Tokyo
-2a0a:280:1351::/48,JO,JO-AM,Amman
-2a0a:280:1352::/48,KZ,KZ-ALA,Nur-Sultan
-2a0a:280:1353::/48,KW,KW-KU,Kuwait City
-2a0a:280:1354::/48,KG,KG-C,Bishkek
-2a0a:280:1355::/48,LA,LA-VT,Vientiane
-2a0a:280:1356::/48,LB,LB-JL,Beirut
-2a0a:280:1357::/48,MY,MY-14,Kuala Lumpur
-2a0a:280:1358::/48,MV,MV-CE,Male
-2a0a:280:1359::/48,MN,MN-1,Ulaanbaatar
-2a0a:280:135a::/48,MM,MM-01,Naypyidaw
-2a0a:280:135b::/48,NP,NP-BA,Kathmandu
-2a0a:280:135c::/48,KP,KP-01,Pyongyang
-2a0a:280:135d::/48,OM,OM-DA,Muscat
-2a0a:280:135e::/48,PK,PK-PB,Islamabad
-2a0a:280:135f::/48,PS,PS-JEM,Ramallah
-2a0a:280:1360::/48,PH,PH-00,Manila
-2a0a:280:1361::/48,QA,QA-DA,Doha
-2a0a:280:1362::/48,RU,RU-MOW,Moscow
-2a0a:280:1363::/48,SA,SA-01,Riyadh
-2a0a:280:1364::/48,SG,SG-01,Singapore
-2a0a:280:1365::/48,KR,KR-11,Seoul
-2a0a:280:1366::/48,LK,LK-1R,Colombo
-2a0a:280:1367::/48,SY,SY-RD,Damascus
-2a0a:280:1368::/48,TW,TW-TP,Taipei
-2a0a:280:1369::/48,TJ,TJ-RA,Dushanbe
-2a0a:280:136a::/48,TH,TH-10,Bangkok
-2a0a:280:136b::/48,TL,TL-DI,Dili
-2a0a:280:136c::/48,TR,TR-34,Istanbul
-2a0a:280:136d::/48,TM,TM-S,Ashgabat
-2a0a:280:136e::/48,AE,AE-DU,Dubai
-2a0a:280:136f::/48,UZ,UZ-TK,Tashkent
-2a0a:280:1370::/48,VN,VN-SG,Ho Chi Minh City
-2a0a:280:1371::/48,YE,YE-SA,Sana'a
-
+2a0a:280:1340::/48,AF,AF-KBL,Kabul,
+2a0a:280:1341::/48,AM,AM-ER,Yerevan,
+2a0a:280:1342::/48,AZ,AZ-BA,Baku,
+2a0a:280:1343::/48,BH,BH-13,Manama,
+2a0a:280:1344::/48,BD,BD-13,Dhaka,
+2a0a:280:1345::/48,BT,BT-15,Thimphu,
+2a0a:280:1346::/48,BN,BN-BE,Bandar Seri Begawan,
+2a0a:280:1347::/48,KH,KH-12,Phnom Penh,
+2a0a:280:1348::/48,CN,CN-BJ,Beijing,
+2a0a:280:1349::/48,CY,CY-02,Nicosia,
+2a0a:280:134a::/48,GE,GE-TB,Tbilisi,
+2a0a:280:134b::/48,IN,IN-DL,New Delhi,
+2a0a:280:134c::/48,ID,ID-JK,Jakarta,
+2a0a:280:134d::/48,IR,IR-07,Tehran,
+2a0a:280:134e::/48,IQ,IQ-BG,Baghdad,
+2a0a:280:134f::/48,IL,IL-JM,Jerusalem,
+2a0a:280:1350::/48,JP,JP-13,Tokyo,
+2a0a:280:1351::/48,JO,JO-AM,Amman,
+2a0a:280:1352::/48,KZ,KZ-ALA,Nur-Sultan,
+2a0a:280:1353::/48,KW,KW-KU,Kuwait City,
+2a0a:280:1354::/48,KG,KG-C,Bishkek,
+2a0a:280:1355::/48,LA,LA-VT,Vientiane,
+2a0a:280:1356::/48,LB,LB-JL,Beirut,
+2a0a:280:1357::/48,MY,MY-14,Kuala Lumpur,
+2a0a:280:1358::/48,MV,MV-CE,Male,
+2a0a:280:1359::/48,MN,MN-1,Ulaanbaatar,
+2a0a:280:135a::/48,MM,MM-01,Naypyidaw,
+2a0a:280:135b::/48,NP,NP-BA,Kathmandu,
+2a0a:280:135c::/48,KP,KP-01,Pyongyang,
+2a0a:280:135d::/48,OM,OM-DA,Muscat,
+2a0a:280:135e::/48,PK,PK-PB,Islamabad,
+2a0a:280:135f::/48,PS,PS-JEM,Ramallah,
+2a0a:280:1360::/48,PH,PH-00,Manila,
+2a0a:280:1361::/48,QA,QA-DA,Doha,
+2a0a:280:1362::/48,RU,RU-MOW,Moscow,
+2a0a:280:1363::/48,SA,SA-01,Riyadh,
+2a0a:280:1364::/48,SG,SG-01,Singapore,
+2a0a:280:1365::/48,KR,KR-11,Seoul,
+2a0a:280:1366::/48,LK,LK-1R,Colombo,
+2a0a:280:1367::/48,SY,SY-RD,Damascus,
+2a0a:280:1368::/48,TW,TW-TP,Taipei,
+2a0a:280:1369::/48,TJ,TJ-RA,Dushanbe,
+2a0a:280:136a::/48,TH,TH-10,Bangkok,
+2a0a:280:136b::/48,TL,TL-DI,Dili,
+2a0a:280:136c::/48,TR,TR-34,Istanbul,
+2a0a:280:136d::/48,TM,TM-S,Ashgabat,
+2a0a:280:136e::/48,AE,AE-DU,Dubai,
+2a0a:280:136f::/48,UZ,UZ-TK,Tashkent,
+2a0a:280:1370::/48,VN,VN-SG,Ho Chi Minh City,
+2a0a:280:1371::/48,YE,YE-SA,Sana'a,
