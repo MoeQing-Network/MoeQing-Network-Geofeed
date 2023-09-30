@@ -45,7 +45,7 @@
 2a12:3fc2:e664::/48,CN,CN-SD,Dezhou,
 2a13:a5c5:2000::/40,SG,SG-01,Singapore,
 2a13:a5c5:2100::/42,TW,TW-TPE,Taipei,
-2a13:a5c5:2180::/43,,TW,TW-TAO,Taoyuan,
+2a13:a5c5:2180::/43,TW,TW-TAO,Taoyuan,
 2a13:a5c5:2200::/40,HK,HK,Hong Kong,
 2a13:a5c5:3000::/44,DE,DE-HE,Frankfurt am Main,
 2a13:a5c5:3010::/44,DE,DE-HE,Frankfurt am Main,
