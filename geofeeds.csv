@@ -46,6 +46,7 @@
 2a13:a5c5:1000::/44,US,US-WA,Seattle,
 2a13:a5c5:1100::/42,US,US-CA,Los Angeles,
 2a13:a5c5:1200::/42,US,US-CA,Fremont,
+2a13:a5c5:1500::/43,US,US-NY,Staten Island,
 2a13:a5c5:2000::/40,SG,SG-01,Singapore,
 2a13:a5c5:2100::/42,TW,TW-TPE,Taipei,
 2a13:a5c5:2180::/43,TW,TW-TAO,Taoyuan,
