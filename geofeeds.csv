@@ -86,7 +86,7 @@
 2a13:a5c5:3200::/42,LU,LU-LU,Lëtzebuerg,
 2a13:a5c5:4000::/44,BR,BR-SP,São Paulo,
 2a13:a5c5:4100::/44,AR,AR-S,Rosario,
-2a13:a5c5:5358::/48,JP,JP-13,Tokyo,
+2a13:a5c5:5000::/40,NG,NG-FC,Abuja,
 2a0a:280:1380::/48,AL,AL-11,Tirana,
 2a0a:280:1381::/48,AD,AD-07,Andorra la Vella,
 2a0a:280:1382::/48,AM,AM-ER,Yerevan,
